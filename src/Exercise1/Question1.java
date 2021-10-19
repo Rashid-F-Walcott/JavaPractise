@@ -2,7 +2,7 @@ package Exercise1;
 
 // Write a program that reverses an array of Strings
 //Given ["you", "are", "how", "Hello"]
-//Print "hello how are you?""
+//Print "hello how are you?"
 
 
 public class Question1 {

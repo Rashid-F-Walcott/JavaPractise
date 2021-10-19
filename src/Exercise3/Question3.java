@@ -1,7 +1,7 @@
 package Exercise3;
 
 // Write a program that takes an input from the user. Either yes or no.
-// If yes it displays a random joke and asks the same question. If no exit the program.
+// If yes it displays a random joke and asks the same question. If no exit the program..
 
 import java.util.Scanner;
 
